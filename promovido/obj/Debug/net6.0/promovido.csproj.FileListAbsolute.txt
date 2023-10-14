@@ -1,0 +1,15 @@
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\promovido\bin\Debug\net6.0\promovido.exe
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\promovido\bin\Debug\net6.0\promovido.deps.json
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\promovido\bin\Debug\net6.0\promovido.runtimeconfig.json
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\promovido\bin\Debug\net6.0\promovido.dll
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\promovido\bin\Debug\net6.0\promovido.pdb
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\promovido\obj\Debug\net6.0\promovido.csproj.AssemblyReference.cache
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\promovido\obj\Debug\net6.0\promovido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\promovido\obj\Debug\net6.0\promovido.AssemblyInfoInputs.cache
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\promovido\obj\Debug\net6.0\promovido.AssemblyInfo.cs
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\promovido\obj\Debug\net6.0\promovido.csproj.CoreCompileInputs.cache
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\promovido\obj\Debug\net6.0\promovido.dll
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\promovido\obj\Debug\net6.0\refint\promovido.dll
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\promovido\obj\Debug\net6.0\promovido.pdb
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\promovido\obj\Debug\net6.0\promovido.genruntimeconfig.cache
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\promovido\obj\Debug\net6.0\ref\promovido.dll
