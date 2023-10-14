@@ -5,23 +5,29 @@ class Program
     static void Main()
     {
         Console.WriteLine("Calculadora de Promedio de Notas");
-        Console.WriteLine("Por favor, ingrese las tres notas:");
+        int nota1 = PedirNota("Nota 1");
+        int nota2 = PedirNota("Nota 2");
+        int nota3 = PedirNota("Nota 3");
 
-        // Solicitar y leer las tres notas del usuario
-        Console.Write("Nota 1: ");
-        double nota1 = double.Parse(Console.ReadLine());
+        int promedio = CalcularPromedio(nota1, nota2, nota3);
 
-        Console.Write("Nota 2: ");
-        double nota2 = double.Parse(Console.ReadLine());
+        MostrarResultado(promedio);
+    }
 
-        Console.Write("Nota 3: ");
-        double nota3 = double.Parse(Console.ReadLine());
+    static int PedirNota(string nombreNota)
+    {
+        Console.Write($"{nombreNota}: ");
+        return int.Parse(Console.ReadLine());
+    }
 
-        // Calcular el promedio de las notas
-        double promedio = (nota1 + nota2 + nota3) / 3.0;
+    static int CalcularPromedio(int nota1, int nota2, int nota3)
+    {
+        return (nota1 + nota2 + nota3) / 3;
+    }
 
-        // Comprobar si el estudiante está promovido o no
-        if (promedio >= 7.0)
+    static void MostrarResultado(int promedio)
+    {
+        if (promedio >= 7)
         {
             Console.WriteLine("Promovido con un promedio de {0}", promedio);
         }
