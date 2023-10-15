@@ -1,0 +1,15 @@
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\numeros&cifras\bin\Debug\net6.0\numeros&cifras.exe
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\numeros&cifras\bin\Debug\net6.0\numeros&cifras.deps.json
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\numeros&cifras\bin\Debug\net6.0\numeros&cifras.runtimeconfig.json
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\numeros&cifras\bin\Debug\net6.0\numeros&cifras.dll
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\numeros&cifras\bin\Debug\net6.0\numeros&cifras.pdb
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\numeros&cifras\obj\Debug\net6.0\numeros&cifras.csproj.AssemblyReference.cache
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\numeros&cifras\obj\Debug\net6.0\numeros&cifras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\numeros&cifras\obj\Debug\net6.0\numeros&cifras.AssemblyInfoInputs.cache
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\numeros&cifras\obj\Debug\net6.0\numeros&cifras.AssemblyInfo.cs
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\numeros&cifras\obj\Debug\net6.0\numeros&cifras.csproj.CoreCompileInputs.cache
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\numeros&cifras\obj\Debug\net6.0\numeros&cifras.dll
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\numeros&cifras\obj\Debug\net6.0\refint\numeros&cifras.dll
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\numeros&cifras\obj\Debug\net6.0\numeros&cifras.pdb
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\numeros&cifras\obj\Debug\net6.0\numeros&cifras.genruntimeconfig.cache
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\numeros&cifras\obj\Debug\net6.0\ref\numeros&cifras.dll
