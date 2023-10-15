@@ -1,0 +1,15 @@
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\Leer2nnumerosXteclado\obj\Debug\net6.0\Leer2nnumerosXteclado.csproj.AssemblyReference.cache
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\Leer2nnumerosXteclado\obj\Debug\net6.0\Leer2nnumerosXteclado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\Leer2nnumerosXteclado\obj\Debug\net6.0\Leer2nnumerosXteclado.AssemblyInfoInputs.cache
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\Leer2nnumerosXteclado\obj\Debug\net6.0\Leer2nnumerosXteclado.AssemblyInfo.cs
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\Leer2nnumerosXteclado\obj\Debug\net6.0\Leer2nnumerosXteclado.csproj.CoreCompileInputs.cache
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\Leer2nnumerosXteclado\bin\Debug\net6.0\Leer2nnumerosXteclado.exe
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\Leer2nnumerosXteclado\bin\Debug\net6.0\Leer2nnumerosXteclado.deps.json
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\Leer2nnumerosXteclado\bin\Debug\net6.0\Leer2nnumerosXteclado.runtimeconfig.json
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\Leer2nnumerosXteclado\bin\Debug\net6.0\Leer2nnumerosXteclado.dll
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\Leer2nnumerosXteclado\bin\Debug\net6.0\Leer2nnumerosXteclado.pdb
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\Leer2nnumerosXteclado\obj\Debug\net6.0\Leer2nnumerosXteclado.dll
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\Leer2nnumerosXteclado\obj\Debug\net6.0\refint\Leer2nnumerosXteclado.dll
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\Leer2nnumerosXteclado\obj\Debug\net6.0\Leer2nnumerosXteclado.pdb
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\Leer2nnumerosXteclado\obj\Debug\net6.0\Leer2nnumerosXteclado.genruntimeconfig.cache
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\Leer2nnumerosXteclado\obj\Debug\net6.0\ref\Leer2nnumerosXteclado.dll
