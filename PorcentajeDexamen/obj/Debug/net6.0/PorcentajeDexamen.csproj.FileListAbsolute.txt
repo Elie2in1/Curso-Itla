@@ -1,0 +1,15 @@
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\PorcentajeDexamen\bin\Debug\net6.0\PorcentajeDexamen.exe
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\PorcentajeDexamen\bin\Debug\net6.0\PorcentajeDexamen.deps.json
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\PorcentajeDexamen\bin\Debug\net6.0\PorcentajeDexamen.runtimeconfig.json
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\PorcentajeDexamen\bin\Debug\net6.0\PorcentajeDexamen.dll
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\PorcentajeDexamen\bin\Debug\net6.0\PorcentajeDexamen.pdb
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\PorcentajeDexamen\obj\Debug\net6.0\PorcentajeDexamen.csproj.AssemblyReference.cache
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\PorcentajeDexamen\obj\Debug\net6.0\PorcentajeDexamen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\PorcentajeDexamen\obj\Debug\net6.0\PorcentajeDexamen.AssemblyInfoInputs.cache
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\PorcentajeDexamen\obj\Debug\net6.0\PorcentajeDexamen.AssemblyInfo.cs
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\PorcentajeDexamen\obj\Debug\net6.0\PorcentajeDexamen.csproj.CoreCompileInputs.cache
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\PorcentajeDexamen\obj\Debug\net6.0\PorcentajeDexamen.dll
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\PorcentajeDexamen\obj\Debug\net6.0\refint\PorcentajeDexamen.dll
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\PorcentajeDexamen\obj\Debug\net6.0\PorcentajeDexamen.pdb
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\PorcentajeDexamen\obj\Debug\net6.0\PorcentajeDexamen.genruntimeconfig.cache
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\PorcentajeDexamen\obj\Debug\net6.0\ref\PorcentajeDexamen.dll
