@@ -24,7 +24,7 @@ linea = Console.ReadLine();
 correctos = Convert.ToInt32(linea);
 
 int porcentaje = (correctos * calculador)/ preguntas ;
-//Console.WriteLine("" + porcentaje);
+//Console.WriteLine("" + porcentaje); lo use para ver que la operaciom estaba correcta
 if (porcentaje >= 90)
 {
 	Console.WriteLine("El postulante es de Nivel Maximo su resultado es: "+  porcentaje +"%");
