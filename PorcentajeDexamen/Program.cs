@@ -39,5 +39,5 @@ else if (porcentaje >= 50 && porcentaje < 75)
 }
 else if(porcentaje < 50);
 {
-    Console.WriteLine("El postulante se encuentra fuera de Nivel Regular su resultado es: " + porcentaje + "%");
+    Console.WriteLine("El postulante se encuentra fuera de Nivel su resultado es: " + porcentaje + "%");
 }
