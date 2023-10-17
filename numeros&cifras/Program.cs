@@ -18,11 +18,11 @@ else if (num >= 10 && num < 100 )
 {
     Console.WriteLine("El numero ingresado es de dos cifras");
 }
- if ( num >= 100 && num < 1000 )
+else if ( num >= 100 && num < 1000 )
 {
     Console.WriteLine("El numero ingresado es de tres cifras");
 }    
-if (num >= 1000)
+else
 {
     Console.WriteLine("Error el numero ingresado es Mayor a tres cifras");
 }
