@@ -25,9 +25,9 @@ if (num1 > num2)
         }
 else
 {
-    if (num1 < num2)
-    { Console.WriteLine("El producto de los numero es:" + producto); 
+  
+    Console.WriteLine("El producto de los numero es:" + producto); 
     Console.WriteLine("La division de los numero es:" + division);
-    }
+    
 
 }
