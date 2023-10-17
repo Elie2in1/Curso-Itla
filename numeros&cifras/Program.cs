@@ -14,15 +14,15 @@ if (num < 10 )
 {
     Console.WriteLine("El numero ingresado es de una cifra");
 }
-else if (num > 9 && num < 100 )
+else if (num >= 10 && num < 100 )
 {
     Console.WriteLine("El numero ingresado es de dos cifras");
 }
- if ( num > 99  && num < 1000 )
+ if ( num >= 100 && num < 1000 )
 {
     Console.WriteLine("El numero ingresado es de tres cifras");
 }    
-if (num == 1000 || num > 1000)
+if (num >= 1000)
 {
     Console.WriteLine("Error el numero ingresado es Mayor a tres cifras");
 }

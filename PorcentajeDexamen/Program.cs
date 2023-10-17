@@ -29,7 +29,7 @@ if (porcentaje >= 90)
 {
 	Console.WriteLine("El postulante es de Nivel Maximo su resultado es: " + porcentaje + "%");
 }
-else if (porcentaje >= 75 && porcentaje < 90)
+else if(porcentaje >= 75 && porcentaje < 90)
 {
 	Console.WriteLine("El postulante es de Nivel Medio su resultado es: " + porcentaje + "%");
 }
@@ -37,7 +37,7 @@ else if (porcentaje >= 50 && porcentaje < 75)
 {
 	Console.WriteLine("El postulante es de Nivel Regular su resultado es: " + porcentaje + "%");
 }
-else if(porcentaje < 50);
+else
 {
     Console.WriteLine("El postulante se encuentra fuera de Nivel su resultado es: " + porcentaje + "%");
 }
