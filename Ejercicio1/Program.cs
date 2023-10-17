@@ -1,76 +1,69 @@
-﻿using System;
+﻿
+/*Problema 1:Realizar un programa que realice la carga del lado de un cuadrado,
+mostrar por pantalla el perímetro del mismo 
+(El perímetro de un cuadrado se calcula multiplicando el valor del lado por cuatro).*/
+int lado = 0;
+string linea = string.Empty;
+Console.WriteLine("Ingrese la medida de un lado del cuadro");
+linea = Console.ReadLine();
+lado = Convert.ToInt32(linea);
+int perimetro = lado * 4;
+Console.WriteLine("El perimetro del cuadro es: "+  perimetro);
+Console.WriteLine("*****************************************");
 
-namespace Ejercicio1
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            // Problema 1: Calcular el perímetro de un cuadrado
-            Console.WriteLine("Problema 1: Calcular el perímetro de un cuadrado");
-            Console.Write("Ingrese el valor del lado del cuadrado: ");
-            double ladoCuadrado = Convert.ToDouble(Console.ReadLine());
-            double perimetroCuadrado = CalcularPerimetroCuadrado(ladoCuadrado);
-            Console.WriteLine($"El perímetro del cuadrado es: {perimetroCuadrado}");
+/* Problema 2: Escribir un programa en el cual se ingresen
+cuatro números, calcular e informar la suma de los dos primeros
+y el producto del tercero y el cuarto.*/
+int num1 = 0;
+int num2 = 0;
+int num3 = 0;
+int num4 = 0;
+Console.WriteLine("Entrar Primer numero");
+linea = Console.ReadLine();
+num1 = Convert.ToInt32(linea);
 
-            // Problema 2: Sumar los dos primeros números y multiplicar los dos últimos
-            Console.WriteLine("\nProblema 2: Sumar los dos primeros números y multiplicar los dos últimos");
-            Console.Write("Ingrese el primer número: ");
-            double num1 = Convert.ToDouble(Console.ReadLine());
-            Console.Write("Ingrese el segundo número: ");
-            double num2 = Convert.ToDouble(Console.ReadLine());
-            Console.Write("Ingrese el tercer número: ");
-            double num3 = Convert.ToDouble(Console.ReadLine());
-            Console.Write("Ingrese el cuarto número: ");
-            double num4 = Convert.ToDouble(Console.ReadLine());
+Console.WriteLine("Entrar Segundo numero");
+linea = Console.ReadLine();
+num2 = Convert.ToInt32(linea);
 
-            double sumaDosPrimeros = SumarDosNumeros(num1, num2);
-            double productoDosUltimos = MultiplicarDosNumeros(num3, num4);
+Console.WriteLine("Entrar tercer numero");
+linea = Console.ReadLine();
+num3 = Convert.ToInt32(linea);
 
-            Console.WriteLine($"La suma de los dos primeros números es: {sumaDosPrimeros}");
-            Console.WriteLine($"El producto de los dos últimos números es: {productoDosUltimos}");
+Console.WriteLine("Entrar cuarto numero");
+linea = Console.ReadLine();
+num4 = Convert.ToInt32(linea);
 
-            // Problema 3: Calcular la suma y el promedio de cuatro valores numéricos
-            Console.WriteLine("\nProblema 3: Calcular la suma y el promedio de cuatro valores numéricos");
-            Console.Write("Ingrese el primer valor: ");
-            double valor1 = Convert.ToDouble(Console.ReadLine());
-            Console.Write("Ingrese el segundo valor: ");
-            double valor2 = Convert.ToDouble(Console.ReadLine());
-            Console.Write("Ingrese el tercer valor: ");
-            double valor3 = Convert.ToDouble(Console.ReadLine());
-            Console.Write("Ingrese el cuarto valor: ");
-            double valor4 = Convert.ToDouble(Console.ReadLine());
+int suma = num1 + num2;
+int producto = num3 * num4;
 
-            double suma = CalcularSuma(valor1, valor2, valor3, valor4);
-            double promedio = CalcularPromedio(valor1, valor2, valor3, valor4);
+Console.WriteLine("La suma del primer y segundo numero es:"+  suma);
+Console.WriteLine("El producto de tercer y cuarto numero es:"+  producto);
+Console.WriteLine("*****************************************");
+/* Problema 3: Calcular la suma y el promedio de cuatro valores numérico
+*/
+int val1 = 0;
+int val2 = 0;
+int val3 = 0;
+int val4 = 0;
+Console.WriteLine("Entrar Primer valor");
+linea = Console.ReadLine();
+val1 = Convert.ToInt32(linea);
 
-            Console.WriteLine($"La suma de los cuatro valores es: {suma}");
-            Console.WriteLine($"El promedio de los cuatro valores es: {promedio}");
-        }
+Console.WriteLine("Entrar Segundo valor");
+linea = Console.ReadLine();
+val2 = Convert.ToInt32(linea);
 
-        static double CalcularPerimetroCuadrado(double lado)
-        {
-            return lado * 4;
-        }
+Console.WriteLine("Entrar tercer valor");
+linea = Console.ReadLine();
+val3 = Convert.ToInt32(linea);
 
-        static double SumarDosNumeros(double num1, double num2)
-        {
-            return num1 + num2;
-        }
+Console.WriteLine("Entrar cuarto valor");
+linea = Console.ReadLine();
+val4 = Convert.ToInt32(linea);
 
-        static double MultiplicarDosNumeros(double num1, double num2)
-        {
-            return num1 * num2;
-        }
+int suma2 = val1 + val2 + val3 + val4;
+int promedio = suma2 / 4;
 
-        static double CalcularSuma(double valor1, double valor2, double valor3, double valor4)
-        {
-            return valor1 + valor2 + valor3 + valor4;
-        }
-
-        static double CalcularPromedio(double valor1, double valor2, double valor3, double valor4)
-        {
-            return (valor1 + valor2 + valor3 + valor4) / 4;
-        }
-    }
-}
+Console.WriteLine("La suma de los valores es:" + suma2);
+Console.WriteLine("El promedio de los valores es:" + promedio);
