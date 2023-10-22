@@ -1,0 +1,15 @@
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\buclewhile\bin\Debug\net6.0\buclewhile.exe
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\buclewhile\bin\Debug\net6.0\buclewhile.deps.json
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\buclewhile\bin\Debug\net6.0\buclewhile.runtimeconfig.json
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\buclewhile\bin\Debug\net6.0\buclewhile.dll
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\buclewhile\bin\Debug\net6.0\buclewhile.pdb
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\buclewhile\obj\Debug\net6.0\buclewhile.csproj.AssemblyReference.cache
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\buclewhile\obj\Debug\net6.0\buclewhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\buclewhile\obj\Debug\net6.0\buclewhile.AssemblyInfoInputs.cache
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\buclewhile\obj\Debug\net6.0\buclewhile.AssemblyInfo.cs
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\buclewhile\obj\Debug\net6.0\buclewhile.csproj.CoreCompileInputs.cache
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\buclewhile\obj\Debug\net6.0\buclewhile.dll
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\buclewhile\obj\Debug\net6.0\refint\buclewhile.dll
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\buclewhile\obj\Debug\net6.0\buclewhile.pdb
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\buclewhile\obj\Debug\net6.0\buclewhile.genruntimeconfig.cache
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\buclewhile\obj\Debug\net6.0\ref\buclewhile.dll
