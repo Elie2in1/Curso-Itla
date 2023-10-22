@@ -1,0 +1,15 @@
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\Triangulo&10nmros\bin\Debug\net6.0\Triangulo&10nmros.exe
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\Triangulo&10nmros\bin\Debug\net6.0\Triangulo&10nmros.deps.json
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\Triangulo&10nmros\bin\Debug\net6.0\Triangulo&10nmros.runtimeconfig.json
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\Triangulo&10nmros\bin\Debug\net6.0\Triangulo&10nmros.dll
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\Triangulo&10nmros\bin\Debug\net6.0\Triangulo&10nmros.pdb
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\Triangulo&10nmros\obj\Debug\net6.0\Triangulo&10nmros.csproj.AssemblyReference.cache
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\Triangulo&10nmros\obj\Debug\net6.0\Triangulo&10nmros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\Triangulo&10nmros\obj\Debug\net6.0\Triangulo&10nmros.AssemblyInfoInputs.cache
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\Triangulo&10nmros\obj\Debug\net6.0\Triangulo&10nmros.AssemblyInfo.cs
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\Triangulo&10nmros\obj\Debug\net6.0\Triangulo&10nmros.csproj.CoreCompileInputs.cache
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\Triangulo&10nmros\obj\Debug\net6.0\Triangulo&10nmros.dll
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\Triangulo&10nmros\obj\Debug\net6.0\refint\Triangulo&10nmros.dll
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\Triangulo&10nmros\obj\Debug\net6.0\Triangulo&10nmros.pdb
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\Triangulo&10nmros\obj\Debug\net6.0\Triangulo&10nmros.genruntimeconfig.cache
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\Triangulo&10nmros\obj\Debug\net6.0\ref\Triangulo&10nmros.dll
