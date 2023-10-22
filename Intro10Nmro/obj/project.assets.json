@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\elie2\\source\\repos\\Elie2in1\\Curso-Itla\\Triangulobasealtura\\TrianguloY10nmros.csproj",
-      "projectName": "TrianguloY10nmros",
-      "projectPath": "C:\\Users\\elie2\\source\\repos\\Elie2in1\\Curso-Itla\\Triangulobasealtura\\TrianguloY10nmros.csproj",
+      "projectUniqueName": "C:\\Users\\elie2\\source\\repos\\Elie2in1\\Curso-Itla\\Intro10Nmro\\Intro10Nmro.csproj",
+      "projectName": "Intro10Nmro",
+      "projectPath": "C:\\Users\\elie2\\source\\repos\\Elie2in1\\Curso-Itla\\Intro10Nmro\\Intro10Nmro.csproj",
       "packagesPath": "C:\\Users\\elie2\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\elie2\\source\\repos\\Elie2in1\\Curso-Itla\\Triangulobasealtura\\obj\\",
+      "outputPath": "C:\\Users\\elie2\\source\\repos\\Elie2in1\\Curso-Itla\\Intro10Nmro\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\elie2\\AppData\\Roaming\\NuGet\\NuGet.Config",

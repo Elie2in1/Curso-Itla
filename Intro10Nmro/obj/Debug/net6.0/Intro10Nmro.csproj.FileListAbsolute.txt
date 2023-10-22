@@ -1,0 +1,15 @@
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\Intro10Nmro\bin\Debug\net6.0\Intro10Nmro.exe
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\Intro10Nmro\bin\Debug\net6.0\Intro10Nmro.deps.json
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\Intro10Nmro\bin\Debug\net6.0\Intro10Nmro.runtimeconfig.json
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\Intro10Nmro\bin\Debug\net6.0\Intro10Nmro.dll
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\Intro10Nmro\bin\Debug\net6.0\Intro10Nmro.pdb
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\Intro10Nmro\obj\Debug\net6.0\Intro10Nmro.csproj.AssemblyReference.cache
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\Intro10Nmro\obj\Debug\net6.0\Intro10Nmro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\Intro10Nmro\obj\Debug\net6.0\Intro10Nmro.AssemblyInfoInputs.cache
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\Intro10Nmro\obj\Debug\net6.0\Intro10Nmro.AssemblyInfo.cs
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\Intro10Nmro\obj\Debug\net6.0\Intro10Nmro.csproj.CoreCompileInputs.cache
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\Intro10Nmro\obj\Debug\net6.0\Intro10Nmro.dll
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\Intro10Nmro\obj\Debug\net6.0\refint\Intro10Nmro.dll
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\Intro10Nmro\obj\Debug\net6.0\Intro10Nmro.pdb
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\Intro10Nmro\obj\Debug\net6.0\Intro10Nmro.genruntimeconfig.cache
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\Intro10Nmro\obj\Debug\net6.0\ref\Intro10Nmro.dll
