@@ -41,8 +41,8 @@ void triangulo()
 
 
 }
+//Desarrollar un programa que solicite la carga de 10 números e imprima la suma de los últimos 5 valores ingresados.
 Dieznmros();
-
 void Dieznmros()
 {
     int cantidadNumeros = 10;
@@ -55,10 +55,9 @@ void Dieznmros()
     {
         Console.Write($"Número {i + 1}: ");
         int numero = Convert.ToInt32(Console.ReadLine());
-        numeros.Add(numero); // Agrega el número a la lista
+        numeros.Add(numero);
     }
 
-    // Calcular la suma de los últimos 5 números ingresados
     int conteo = numeros.Count - 5;
     for (int i = conteo; i < numeros.Count; i++)
     {

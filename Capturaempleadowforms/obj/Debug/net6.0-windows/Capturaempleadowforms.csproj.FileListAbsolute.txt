@@ -1,0 +1,17 @@
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\Capturaempleadowforms\obj\Debug\net6.0-windows\Capturaempleadowforms.csproj.AssemblyReference.cache
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\Capturaempleadowforms\obj\Debug\net6.0-windows\Capturaempleadowforms.Form1.resources
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\Capturaempleadowforms\obj\Debug\net6.0-windows\Capturaempleadowforms.csproj.GenerateResource.cache
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\Capturaempleadowforms\obj\Debug\net6.0-windows\Capturaempleadowforms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\Capturaempleadowforms\obj\Debug\net6.0-windows\Capturaempleadowforms.AssemblyInfoInputs.cache
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\Capturaempleadowforms\obj\Debug\net6.0-windows\Capturaempleadowforms.AssemblyInfo.cs
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\Capturaempleadowforms\obj\Debug\net6.0-windows\Capturaempleadowforms.csproj.CoreCompileInputs.cache
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\Capturaempleadowforms\bin\Debug\net6.0-windows\Capturaempleadowforms.exe
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\Capturaempleadowforms\bin\Debug\net6.0-windows\Capturaempleadowforms.deps.json
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\Capturaempleadowforms\bin\Debug\net6.0-windows\Capturaempleadowforms.runtimeconfig.json
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\Capturaempleadowforms\bin\Debug\net6.0-windows\Capturaempleadowforms.dll
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\Capturaempleadowforms\bin\Debug\net6.0-windows\Capturaempleadowforms.pdb
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\Capturaempleadowforms\obj\Debug\net6.0-windows\Capturaempleadowforms.dll
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\Capturaempleadowforms\obj\Debug\net6.0-windows\refint\Capturaempleadowforms.dll
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\Capturaempleadowforms\obj\Debug\net6.0-windows\Capturaempleadowforms.pdb
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\Capturaempleadowforms\obj\Debug\net6.0-windows\Capturaempleadowforms.genruntimeconfig.cache
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\Capturaempleadowforms\obj\Debug\net6.0-windows\ref\Capturaempleadowforms.dll

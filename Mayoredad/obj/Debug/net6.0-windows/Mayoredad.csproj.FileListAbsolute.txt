@@ -1,0 +1,17 @@
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\Mayoredad\bin\Debug\net6.0-windows\Mayoredad.exe
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\Mayoredad\bin\Debug\net6.0-windows\Mayoredad.deps.json
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\Mayoredad\bin\Debug\net6.0-windows\Mayoredad.runtimeconfig.json
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\Mayoredad\bin\Debug\net6.0-windows\Mayoredad.dll
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\Mayoredad\bin\Debug\net6.0-windows\Mayoredad.pdb
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\Mayoredad\obj\Debug\net6.0-windows\Mayoredad.csproj.AssemblyReference.cache
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\Mayoredad\obj\Debug\net6.0-windows\Mayoredad.MayorEdadform.resources
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\Mayoredad\obj\Debug\net6.0-windows\Mayoredad.csproj.GenerateResource.cache
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\Mayoredad\obj\Debug\net6.0-windows\Mayoredad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\Mayoredad\obj\Debug\net6.0-windows\Mayoredad.AssemblyInfoInputs.cache
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\Mayoredad\obj\Debug\net6.0-windows\Mayoredad.AssemblyInfo.cs
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\Mayoredad\obj\Debug\net6.0-windows\Mayoredad.csproj.CoreCompileInputs.cache
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\Mayoredad\obj\Debug\net6.0-windows\Mayoredad.dll
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\Mayoredad\obj\Debug\net6.0-windows\refint\Mayoredad.dll
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\Mayoredad\obj\Debug\net6.0-windows\Mayoredad.pdb
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\Mayoredad\obj\Debug\net6.0-windows\Mayoredad.genruntimeconfig.cache
+C:\Users\elie2\source\repos\Elie2in1\Curso-Itla\Mayoredad\obj\Debug\net6.0-windows\ref\Mayoredad.dll
